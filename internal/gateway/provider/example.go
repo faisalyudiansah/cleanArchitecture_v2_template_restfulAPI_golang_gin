@@ -2,8 +2,8 @@ package provider
 
 import (
 	controllerExample "server/internal/controller"
+	"server/internal/gateway/route"
 	repositoryExample "server/internal/repository"
-	"server/internal/route"
 	usecaseExample "server/internal/usecase"
 
 	"github.com/gin-gonic/gin"
