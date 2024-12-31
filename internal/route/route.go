@@ -1,7 +1,7 @@
 package route
 
 import (
-	controllers "server/internal/example/controller"
+	controllers "server/internal/controller"
 
 	"github.com/gin-gonic/gin"
 )

@@ -8,9 +8,9 @@ import (
 var EmailHTMLTemplates embed.FS
 
 const (
-	ResetPasswordSubject = "[domain-driven-design] Please reset your password"
-	VerificationSubject  = "[domain-driven-design] Verify your account"
-	PharmacistSubject    = "[domain-driven-design] Pharmacist account"
+	ResetPasswordSubject = "[clean-arch-v2] Please reset your password"
+	VerificationSubject  = "[clean-arch-v2] Verify your account"
+	PharmacistSubject    = "[clean-arch-v2] Pharmacist account"
 )
 
 type emailTemplate string

@@ -1,10 +1,10 @@
 package provider
 
 import (
-	controllerExample "server/internal/example/controller"
-	repositoryExample "server/internal/example/repository"
-	"server/internal/example/route"
-	usecaseExample "server/internal/example/usecase"
+	controllerExample "server/internal/controller"
+	repositoryExample "server/internal/repository"
+	"server/internal/route"
+	usecaseExample "server/internal/usecase"
 
 	"github.com/gin-gonic/gin"
 )

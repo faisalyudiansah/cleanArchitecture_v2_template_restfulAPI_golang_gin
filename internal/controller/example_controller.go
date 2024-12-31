@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"server/internal/example/usecase"
+	"server/internal/usecase"
 	"server/pkg/utils/ginutils"
 
 	"github.com/gin-gonic/gin"

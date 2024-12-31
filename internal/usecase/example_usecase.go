@@ -2,7 +2,7 @@ package usecase
 
 import (
 	"context"
-	"server/internal/example/repository"
+	"server/internal/repository"
 	"server/pkg/database/transactor"
 )
 
